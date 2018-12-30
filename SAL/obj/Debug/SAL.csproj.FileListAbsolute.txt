@@ -1,0 +1,4 @@
+C:\Users\Usuario\Documents\Projects\Lab2v2\SAL\bin\Debug\SAL.dll
+C:\Users\Usuario\Documents\Projects\Lab2v2\SAL\bin\Debug\SAL.pdb
+C:\Users\Usuario\Documents\Projects\Lab2v2\SAL\obj\Debug\SAL.dll
+C:\Users\Usuario\Documents\Projects\Lab2v2\SAL\obj\Debug\SAL.pdb

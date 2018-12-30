@@ -1,0 +1,4 @@
+C:\Users\Usuario\Documents\Projects\Lab2v2\DAL\bin\Debug\DAL.dll
+C:\Users\Usuario\Documents\Projects\Lab2v2\DAL\bin\Debug\DAL.pdb
+C:\Users\Usuario\Documents\Projects\Lab2v2\DAL\obj\Debug\DAL.dll
+C:\Users\Usuario\Documents\Projects\Lab2v2\DAL\obj\Debug\DAL.pdb
